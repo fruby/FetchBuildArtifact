@@ -32,6 +32,7 @@
             "required": true,
             "helpMarkDown": "Build definition from where to fetch build artifact.",
             "properties": {
+                "EditableOptions": "True",
                 "DisableManageLink": "True"
             },
             "visibleRule": "project != \"\""
